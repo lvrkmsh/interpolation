@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+c:\users\александр\desktop\курсач\cppwinform4\cppwinform4\Newton.h(10): warning C4101: q: неиспользованная локальная переменная
+c:\users\александр\desktop\курсач\cppwinform4\cppwinform4\MyForm.h(27): warning C4677: x: сигнатура члена, не являющегося частным, содержит частный тип сборки "cliext::vector<double>"
+  c:\users\александр\desktop\курсач\cppwinform4\cppwinform4\Newton.h(9): note:  см. объявление "cliext::vector<double>"
+c:\users\александр\desktop\курсач\cppwinform4\cppwinform4\MyForm.h(27): warning C4677: f: сигнатура члена, не являющегося частным, содержит частный тип сборки "cliext::vector<double>"
+  c:\users\александр\desktop\курсач\cppwinform4\cppwinform4\Newton.h(9): note:  см. объявление "cliext::vector<double>"
+c:\users\александр\desktop\курсач\cppwinform4\cppwinform4\MyForm.h(715): warning C4101: e: неиспользованная локальная переменная
+  Newton.cpp
+c:\users\александр\desktop\курсач\cppwinform4\cppwinform4\Newton.h(10): warning C4101: q: неиспользованная локальная переменная
+  Создание кода...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  CppWinForm4.vcxproj -> C:\Users\Александр\Desktop\курсач\CppWinForm4\Debug\CppWinForm4.exe
+  CppWinForm4.vcxproj -> C:\Users\Александр\Desktop\курсач\CppWinForm4\Debug\CppWinForm4.pdb (Full PDB)
